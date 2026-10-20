@@ -1,0 +1,48 @@
+{
+  "name": "OnlineRetail",
+  "dataColors": [
+    "#2563A8",
+    "#138A7E",
+    "#16325C",
+    "#E08A2E",
+    "#7A5BA6",
+    "#C2464B",
+    "#5D8C3A",
+    "#8A8F99"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1E2633",
+  "tableAccent": "#2563A8",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#5B6575"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1E2633",
+      "fontSize": 12
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1E2633",
+      "fontSize": 24
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
